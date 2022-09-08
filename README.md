@@ -13,9 +13,10 @@ https://github.com/mawinfin/My-Project/tree/main/Rstudio
 https://github.com/mawinfin/My-Project/tree/main/Python
  - Some of control flow code to create "Rock Scissors Paper GAME" by Python programming
  - Object Oriented Programing to create "ATM Class"
- - Data tranformation by pandas library
+ - Data tranformation and some of visualization by pandas library
 
-### My skills
+
+#### My skills
 - Spreadsheets
 - SQL Databases
 - R Programming
