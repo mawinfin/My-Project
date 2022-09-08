@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-
-# -- Project --
-
 # # Final Project - Analyzing Sales Data
 # 
 # **Date**: 1 March 2022
@@ -9,6 +5,10 @@
 # **Author**: Juladet Asunee Na Ayuttaya
 # 
 # **Course**: `Pandas Foundation`
+# 
+# You can see full code and some of visualization on this link
+#
+# https://datalore.jetbrains.com/notebook/EHPn07vg8F0Yf8S5GRJBSF/ZP2KHkAdvP64THutkD4tTG/
 
 
 # import data
